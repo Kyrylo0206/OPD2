@@ -55,6 +55,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;CMake Application.OPD2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -90,11 +91,18 @@
       <workItem from="1727697941257" duration="778000" />
       <workItem from="1727699846140" duration="2966000" />
       <workItem from="1727792838682" duration="5251000" />
-      <workItem from="1727870520909" duration="2000" />
+      <workItem from="1727870520909" duration="389000" />
+      <workItem from="1727870936709" duration="1786000" />
+      <workItem from="1727975449244" duration="655000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
   </component>
 </project>
